@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mx.unam.fi.poo.g1.p1","c":"Calculos","l":"Calculos()","u":"%3Cinit%3E()"},{"p":"mx.unam.fi.poo.g1.p1","c":"Calculos","l":"DistanciaTierra(double, double, double, double)","u":"DistanciaTierra(double,double,double,double)"}];updateSearchResults();
